@@ -1,4 +1,4 @@
 Download-picture-with-python
 ============================
-Function:
+python 2.7.5
 
