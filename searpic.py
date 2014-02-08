@@ -1,3 +1,4 @@
+# edition Python 2.7.5
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import sys,os,re   
